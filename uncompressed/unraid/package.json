@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": "https://github.com/rctneil/franz-recipe-unraid",
   "config": {
-    "serviceURL": "http://{teamId}.local",
+    "serviceURL": "{teamId}",
     "hasNotificationSound": false,
     "hasTeamId": true
   }
